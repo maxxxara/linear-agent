@@ -19,7 +19,6 @@ You get **Linear Agent**, a chat-based assistant that talks to your Linear accou
 
 No more context switching between chat and Linear. No more "I'll add that to Linear later" moments that never happen. Just fluid, natural task management that feels like talking to a really organized friend.
 
-https://github.com/user-attachments/assets/a9cc8de3-f44a-4c46-b446-4668a9dc59b8
 <div align="center">
     <video src="https://github.com/user-attachments/assets/a9cc8de3-f44a-4c46-b446-4668a9dc59b8" controls width="100%"></video>
 </div>
