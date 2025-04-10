@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-google-genai
+pydantic
+fastapi
+uvicorn
+pydantic_settings
+streamlit
+ptvsd
+langchain_chroma
+uuid
+asyncio
